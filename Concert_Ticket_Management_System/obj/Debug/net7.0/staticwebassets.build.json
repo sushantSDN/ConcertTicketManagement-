@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MVoxpQUzaEkGIn2xhpvC69tPYPxl3PTfxXHXDhytYqA=",
+  "Source": "YarpGateway",
+  "BasePath": "_content/YarpGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YarpGateway\\wwwroot",
+      "Source": "YarpGateway",
+      "ContentRoot": "D:\\project\\Assigngnment\\ConcertTicketManagementSystem\\Concert_Ticket_Management_System\\wwwroot\\",
+      "BasePath": "_content/YarpGateway",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\project\\Assigngnment\\ConcertTicketManagementSystem\\Concert_Ticket_Management_System\\wwwroot\\swagger-ui\\custom.css",
+      "SourceId": "YarpGateway",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project\\Assigngnment\\ConcertTicketManagementSystem\\Concert_Ticket_Management_System\\wwwroot\\",
+      "BasePath": "_content/YarpGateway",
+      "RelativePath": "swagger-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
+    }
+  ]
+}

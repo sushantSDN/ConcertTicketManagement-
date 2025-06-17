@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EventService</name>
+    </assembly>
+    <members>
+        <member name="M:EventService.Controllers.EventsController.GetEventTicketInfo(System.Int32,System.Int32)">
+            <summary>        
+            This API returns the count of available tickets based on the provided event and ticket type
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EventService.Controllers.EventsController.ReduceCapacity(EventService.DTOs.TicketReductionDto)">
+            <summary>        
+            This API is not used here; the ticket quantity will be reduced by the Ticket Service when a ticket is purchased
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:EventService.Migrations.Event">
+            <inheritdoc />
+        </member>
+        <member name="M:EventService.Migrations.Event.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EventService.Migrations.Event.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EventService.Migrations.Event.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

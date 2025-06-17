@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\project\\Assigngnment\\ConcertTicketManagementSystem\\Concert_Ticket_Management_System\\wwwroot\\swagger-ui\\custom.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\custom.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.YarpGateway.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.YarpGateway.props",
+      "PackagePath": "build\\YarpGateway.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.YarpGateway.props",
+      "PackagePath": "buildMultiTargeting\\YarpGateway.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.YarpGateway.props",
+      "PackagePath": "buildTransitive\\YarpGateway.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

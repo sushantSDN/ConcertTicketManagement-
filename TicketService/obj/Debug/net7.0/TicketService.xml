@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TicketService</name>
+    </assembly>
+    <members>
+        <member name="M:TicketService.Controllers.TicketsController.GetTicketAvailabilityAsync(System.Int32,System.Int32)">
+            <summary>        
+            This API returns the count of available tickets based on the provided event and ticket type with reserved and pruhases count 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TicketService.Migrations.Ticket">
+            <inheritdoc />
+        </member>
+        <member name="M:TicketService.Migrations.Ticket.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TicketService.Migrations.Ticket.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TicketService.Migrations.Ticket.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
